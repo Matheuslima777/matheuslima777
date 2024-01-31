@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Cursando tecnóogo em Analise e Desenvolvimento de Sistemas pela instituição IFBA.
+- 🔭 Cursando tecnólogo em Analise e Desenvolvimento de Sistemas pela instituição IFBA.
 - 🌱 Atualmente estudando programação front-end, java e sql.
 - ⚡ Minha preguiça me obriga a ser criativo 🤣🤣
 
